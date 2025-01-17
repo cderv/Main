@@ -1,5 +1,5 @@
 {
-    "version": "1.1.43",
+    "version": "1.1.44",
     "description": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager - all in one.",
     "homepage": "https://bun.sh/",
     "license": "MIT",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.43/bun-windows-x64.zip",
-            "hash": "0af5374d1aa76e88722c2c66f72fa018b786766304c8cafec09774296d5ca80e"
+            "url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.44/bun-windows-x64.zip",
+            "hash": "06497663a49661a6bdc2a0516eb3c305e8a78eddd578d22084d047929e7cdf05"
         }
     },
     "pre_install": [
