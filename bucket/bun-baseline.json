@@ -1,5 +1,5 @@
 {
-    "version": "1.2.9",
+    "version": "1.2.10",
     "description": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager - all in one. (Baseline build)",
     "homepage": "https://bun.sh/",
     "license": "MIT",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/oven-sh/bun/releases/download/bun-v1.2.9/bun-windows-x64-baseline.zip",
-            "hash": "dcf5ffda62080b79ecfc8c640e5567dc6d00e0120dfc2746ae9de78a99dc367b"
+            "url": "https://github.com/oven-sh/bun/releases/download/bun-v1.2.10/bun-windows-x64-baseline.zip",
+            "hash": "112bf923f6553e5e46d113d13df4b98af3af4454b7de710b09a2dc56acf9d75f"
         }
     },
     "extract_dir": "bun-windows-x64-baseline",
