@@ -1,5 +1,5 @@
 {
-    "version": "0.6.6",
+    "version": "0.6.7",
     "description": "Manage multiple SDK versions with a single CLI tool, extendable via plugins",
     "homepage": "https://vfox.lhan.me/",
     "license": "Apache-2.0",
@@ -9,19 +9,19 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/version-fox/vfox/releases/download/v0.6.6/vfox_0.6.6_windows_x86_64.zip",
-            "hash": "fec222a4a012b0235997ea4cda4617e6f20568c1ea6574f70a54819eb8eab10e",
-            "extract_dir": "vfox_0.6.6_windows_x86_64"
+            "url": "https://github.com/version-fox/vfox/releases/download/v0.6.7/vfox_0.6.7_windows_x86_64.zip",
+            "hash": "517a491244107b634ae6f449f0dea287266b0dfc9a2126b341802e8c230f0c5d",
+            "extract_dir": "vfox_0.6.7_windows_x86_64"
         },
         "32bit": {
-            "url": "https://github.com/version-fox/vfox/releases/download/v0.6.6/vfox_0.6.6_windows_i386.zip",
-            "hash": "fec222a4a012b0235997ea4cda4617e6f20568c1ea6574f70a54819eb8eab10e",
-            "extract_dir": "vfox_0.6.6_windows_i386"
+            "url": "https://github.com/version-fox/vfox/releases/download/v0.6.7/vfox_0.6.7_windows_i386.zip",
+            "hash": "517a491244107b634ae6f449f0dea287266b0dfc9a2126b341802e8c230f0c5d",
+            "extract_dir": "vfox_0.6.7_windows_i386"
         },
         "arm64": {
-            "url": "https://github.com/version-fox/vfox/releases/download/v0.6.6/vfox_0.6.6_windows_aarch64.zip",
-            "hash": "fec222a4a012b0235997ea4cda4617e6f20568c1ea6574f70a54819eb8eab10e",
-            "extract_dir": "vfox_0.6.6_windows_aarch64"
+            "url": "https://github.com/version-fox/vfox/releases/download/v0.6.7/vfox_0.6.7_windows_aarch64.zip",
+            "hash": "517a491244107b634ae6f449f0dea287266b0dfc9a2126b341802e8c230f0c5d",
+            "extract_dir": "vfox_0.6.7_windows_aarch64"
         }
     },
     "bin": "vfox.exe",
